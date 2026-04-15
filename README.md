@@ -105,7 +105,6 @@ Testing, debugging, and documentation
 ## Share Practice Form
 ![Share](screenshots/share.png.png)
 
-
 ## User Profile
 ![Profile](screenshots/profile.png.png)
 
