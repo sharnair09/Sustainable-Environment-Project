@@ -94,18 +94,20 @@ Testing, debugging, and documentation
 
 ## Screenshots
 ## Home Page
-
+![Home](screenshots/home.png.png)
 
 ## Discover Practices Page
+![Discover](screenshots/discover.png)
 
 ## Login / Register Screen
-
+![Login](screenshots/login.png.png)
 
 ## Share Practice Form
+![Share](screenshots/share.png.png)
 
 
 ## User Profile
-
+![Profile](screenshots/profile.png.png)
 
 
 
