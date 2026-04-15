@@ -1,4 +1,4 @@
-# Sustainable-Environment-Project
+<img width="1658" height="733" alt="Screenshot 2026-04-15 202216" src="https://github.com/user-attachments/assets/40d18e44-ce09-46e6-a3ad-6253ddb58d7b" /><img width="1658" height="733" alt="Screenshot 2026-04-15 202216" src="https://github.com/user-attachments/assets/cc5a442f-b99e-4f90-b1df-88377f62eeb5" /># Sustainable-Environment-Project
 GreenSteps — Sustainable Living Platform
 
 1️⃣ Overview
@@ -76,18 +76,27 @@ Managing state updates for likes, filters, and user sessions
 
 6️⃣ Team Contribution
 
-Hridya
+Sharanya
 Developed UI design and frontend layout
 Implemented theme and responsiveness
 
-
+Arya
 Handled database integration (SQLite using sql.js)
 Developed authentication system
-Member 3
+
+Ankitha
 Implemented filtering, search, and like system
 Integrated weather API
-Member 4
+
+Hridya
 Testing, debugging, and documentation
+
+
+## Screenshots
+## Home Page
+
+
+
 
 
 
