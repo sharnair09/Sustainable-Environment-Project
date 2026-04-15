@@ -94,19 +94,18 @@ Testing, debugging, and documentation
 
 ## Screenshots
 ## Home Page
-<img width="1658" height="733" alt="Screenshot 2026-04-15 202216" src="https://github.com/user-attachments/assets/8c2a8eb9-67ca-47a4-83d1-c7bf8c86f484" />
+
 
 ## Discover Practices Page
-<img width="1638" height="909" alt="Screenshot 2026-04-15 202240" src="https://github.com/user-attachments/assets/eed437b8-2a05-496b-8fbe-b77adba0abdf" />
 
 ## Login / Register Screen
-<img width="550" height="818" alt="Screenshot 2026-04-15 203316" src="https://github.com/user-attachments/assets/5d9b4d85-1159-4c74-888a-d407e184d5c9" />
+
 
 ## Share Practice Form
-<img width="1453" height="858" alt="Screenshot 2026-04-15 202835" src="https://github.com/user-attachments/assets/85a92e28-777e-4ce8-8403-283b10e3f810" />
+
 
 ## User Profile
-<img width="1490" height="723" alt="Screenshot 2026-04-15 202923" src="https://github.com/user-attachments/assets/2270c418-9087-4b16-8984-b5a8b24e3d8b" />
+
 
 
 
