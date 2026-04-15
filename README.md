@@ -1,4 +1,4 @@
-<img width="1658" height="733" alt="Screenshot 2026-04-15 202216" src="https://github.com/user-attachments/assets/40d18e44-ce09-46e6-a3ad-6253ddb58d7b" /><img width="1658" height="733" alt="Screenshot 2026-04-15 202216" src="https://github.com/user-attachments/assets/cc5a442f-b99e-4f90-b1df-88377f62eeb5" /># Sustainable-Environment-Project
+
 GreenSteps — Sustainable Living Platform
 
 1️⃣ Overview
@@ -94,6 +94,7 @@ Testing, debugging, and documentation
 
 ## Screenshots
 ## Home Page
+
 
 
 
